@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aryaan Sheth</h1>
-<h3 align="center">I'm a Highschool developer</h3>
+<h3 align="center">A Highschool developer</h3>
 
 - 🔭 I’m currently working on **Timathon Project**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Crypto Trading Algo's**
 
 - 💬 Ask me about **Pygame & Discord.py**
 

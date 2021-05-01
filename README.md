@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 💬 Ask me about **Pygame ~ Discord.py**
+- 💬 Ask me about **Pygame & Discord.py**
 
 
 <h3 align="left">Languages and Tools:</h3>

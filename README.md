@@ -6,7 +6,6 @@
 - 🔭 I’m currently working on [Wordle Bot](https://github.com/AryaanSheth/WordleBot)
 
 - 🌱 I’m currently learning **C++**
-- 
 <p align="left">
 </p>
 

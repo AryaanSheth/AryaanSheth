@@ -3,7 +3,7 @@
 
 - My website is [aryaan.dev](https://aryaan-dev-611c7.firebaseapp.com/)
 
-- 🔭 I’m currently working on [Wordle Bot](https://github.com/AryaanSheth/WordleBot)
+- 🔭 I’m currently working on learning C++
 
 - 🌱 I’m currently learning **C++**
 <p align="left">

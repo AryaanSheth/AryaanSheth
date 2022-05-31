@@ -14,5 +14,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryaansheth&&theme=radical" alt="aryaansheth" /></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryaanSheth&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Aryaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryaanSheth&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)   
    

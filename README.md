@@ -1,5 +1,5 @@
 # Hey 👋
-<h4 align="center"> Currently Learning Java & Elixir </h4>         
+<h4 align="center"> Currently Learning Java & Haskell </h4>         
 
 # ⛅Tech Stack
 <p align="center">

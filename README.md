@@ -4,7 +4,7 @@
 # ⛅Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,go,c,py,haskell,postgres,latex,git,css,html,md"/>     
+    <img src="https://skillicons.dev/icons?i=java,go,c,py,postgres,latex,git,css,html,md"/>     
     <img src="https://skillicons.dev/icons?i=vscode,arduino,azure,docker,figma,firebase,flask,ai,ps,pr,tensorflow"/>
   </a>
 </p>

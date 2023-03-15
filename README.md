@@ -1,5 +1,5 @@
 # Hey 👋
-<h4 align="center"> Currently Working Golang Load Balancer </h4>         
+<h4 align="center"> Currently Working Golang Terminal RPG </h4>         
 
 # ⛅Tech Stack
 <p align="center">

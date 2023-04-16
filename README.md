@@ -1,6 +1,6 @@
 Hey, I'm Aryaan 👋     
 
-I'm currently working on a Terminal RPG in Go
+I'm currently studying for exams, no coding :(
 
 Tech Stack    
 languages: Java, Go, Python, C, SQL     

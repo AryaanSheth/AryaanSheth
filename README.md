@@ -1,6 +1,5 @@
 CS @ McMaster University     
-Currently building [gloq](https://github.com/AryaanSheth/gloq) & Learning Gleam    
-Learning Avalonia 
+Currently building gopsd
       
 Tech Stack    
 languages: Java, Go, Python, C/C++, C#, SQL, Javascript   

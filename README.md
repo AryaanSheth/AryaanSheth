@@ -1,5 +1,4 @@
 CS @ McMaster University     
-Currently building gopsd
       
 Tech Stack    
 languages: Java, Go, Python, C/C++, C#, SQL, Javascript   

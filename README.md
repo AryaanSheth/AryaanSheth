@@ -1,2 +1,2 @@
-Building an HFT Crypto Cross Exchange Arbitrage bot     
+Building JADE (Just A Discord Embedder)     
 [visit my website!](https://www.aryaan.cloud/)
